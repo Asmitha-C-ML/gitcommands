@@ -1,0 +1,6 @@
+git init
+git config
+git add
+git status
+git commit -m "msg"
+git remote 
